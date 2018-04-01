@@ -1,3 +1,11 @@
+# Author 	: 	Erik Dubois
+# Website 	: 	https://www.erikdubois.be
+# Website	:	https://www.arcolinux.info
+# Website	:	https://www.arcolinux.com
+# Website	:	https://www.arcolinuxd.com
+# Website	:	https://www.arcolinuxforum.com
+
+
 # Ultimate Debian
 
 You can install a lot of desktops on Debian like on any other distro...almost any.
@@ -66,11 +74,11 @@ If everything is still working we can install the software and start customizing
 
 The best of them
 
-	Atom							--use script
+	Atom					--use script
 	Sublime Text			--use script
-	Variety						--normal repo
-	Inkscape					--normal repo
-	Plank							--normal repo
+	Variety					--normal repo
+	Inkscape				--normal repo
+	Plank					--normal repo
 	Screenfetch				--normal repo
 	Sardi Icons				--use script see below
 	Surfn Icons				--use script
